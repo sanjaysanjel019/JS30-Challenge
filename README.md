@@ -1,4 +1,5 @@
-# js30_drumkit
+# js30_Challenge
+##js30_Drumkit
 
 This is the first file of the follow-through of the JS30 Challenge.
 
@@ -12,7 +13,6 @@ The idea is to create a basic drum-kit with the given starter file and learn the
 * Adding and removing classes in HTML elements
 
 
-## What was new?
-[x] EventListeners
-[x] querySelectors
-[ ] forEach loop
+##js30_CSS-Clock
+
+Simple CSS and JS Clock.
